@@ -89,7 +89,7 @@ Amazon product review data (may include versions of old vs processed sets).
 
 ## 👨‍💼 Author
 
-**Elias Hossain**
+**Elias Hossain** <br>
 *Machine Learning Researcher | PhD in Progress | AI x Reasoning Enthusiast*
 
 [![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
